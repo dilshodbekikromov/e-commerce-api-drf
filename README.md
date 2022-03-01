@@ -5,14 +5,6 @@
   An Ecommerce Store Backend to Sell Products. It accepts Paypal/Stripe Payment. Built with Python/Django Rest Framework.
 </h3>
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation Process](#installation-process)
-- [Project Demo](#project-demo)
-- [Feedback](#feedback)
-
 ## Introduction
 
 DRF-Ecommerce-API provides API endpoints to Sell Physical Products through Paypal/Stripe Payment. Built with Python/Django and 100% free to use.
@@ -52,8 +44,4 @@ Live Project url: [ecom-rest.herokuapp.com](https://ecom-rest.herokuapp.com/)
 <p>
   <img src = "https://i.imgur.com/sumANAq.png" width=700>
 </p>
-
-## Feedback
-
-Feel free to send me feedback on [Twitter](https://twitter.com/MahmudSajib18) or [file an issue](https://github.com/mahmud-sajib/DRF-Ecommerce-API/issues/new). If you wish to contribute, please feel free to do so!
 
