@@ -27,7 +27,6 @@ A few of the things you can do with this app:
 1. Create a Virtual Environment `virtualenv projectenv`
 2. Go To environment Directory `cd projectenv/scripts`
 3. Activate Virtual Environment `activate`
-4. Clone This Project `git clone https://github.com/mahmud-sajib/DRF-Ecommerce-API.git`
 5. Go To Project Directory `cd DRF-Ecommerce-API`
 6. Install Required Package `pip install -r requirements.txt`
 7. Migrate Database `python manage.py migrate`
